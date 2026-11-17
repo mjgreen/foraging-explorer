@@ -1,0 +1,8 @@
+Package: foragingexplorer
+Type: Shiny
+Title: Foraging Explorer
+Version: 0.1.0
+Authors@R: person("Matt", "Green", role = c("aut", "cre"))
+Description: Compare two simple foraging agents with clearly labelled synthetic references.
+Encoding: UTF-8
+Imports: shiny, ggplot2, simecol

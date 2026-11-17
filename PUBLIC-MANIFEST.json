@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "source_revision": "91755860950edf1c36f871eb05aadfb61bee37c7",
+  "source_worktree_modified": false,
+  "recorded_participant_data_included": false,
+  "comparison": "Deterministic synthetic references, generated without reading study data",
+  "application_licence_grant": "None added; see RIGHTS.md",
+  "files": [
+    {
+      "path": ".dockerignore",
+      "bytes": 109,
+      "sha256": "f588afcb014c2d8d15e3deeb936132d850b82cbfd9d6d80568fb9b413611cf04"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 88,
+      "sha256": "7ed4a704b0b8b8e9b965a0fa3a25ae8bfd4cc50d3b786a9b428522c2c1bee26a"
+    },
+    {
+      "path": "DESCRIPTION",
+      "bytes": 278,
+      "sha256": "a08f74a42bb716e9ebf1f675c76aac25634b15824f20da34a28d79ab3b0d97ed"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 670,
+      "sha256": "b9903b67d5dce02a6ea9fb2b31625ffa6fe19e73c9ba0c47a7d7f39783f083ac"
+    },
+    {
+      "path": "R/benchmark.R",
+      "bytes": 1274,
+      "sha256": "231e2b3e89926a1b355d1f336eca5fe32d73c80edb3190b666b544df65129519"
+    },
+    {
+      "path": "R/plotting.R",
+      "bytes": 2802,
+      "sha256": "6709fdd34f256e021626f39d50c5f8dd8ebe6c1b5b5de6f7fc91aab76c763162"
+    },
+    {
+      "path": "R/simulation.R",
+      "bytes": 3691,
+      "sha256": "60f12969df789be4a18f6f6e8ef50b82dacf5981468eb2a2d00d7ff45ba27bd9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3998,
+      "sha256": "a6c841eea576d83ef2242fe9c4a2c25caf92660b5bd7c028ccb6235f99a94e52"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 962,
+      "sha256": "61dc5c85840b6b161c39bc884c24a91bc87cb2d814bdecd8188e43be51c09a86"
+    },
+    {
+      "path": "app.R",
+      "bytes": 10175,
+      "sha256": "c659017772e8c5036fc3dfb14acd4121184cf8db3465ede006b48c160a7bac15"
+    },
+    {
+      "path": "data/synthetic-curves.csv",
+      "bytes": 301448,
+      "sha256": "6133ef54eca1868b0e632a1337c66894ce882bb4cf53e7c27682810f843fb518"
+    },
+    {
+      "path": "renv.lock",
+      "bytes": 103593,
+      "sha256": "9e48c9d18809bd4ec989e5d6ada39900a8828cec84f3522ceeba1a1686086a97"
+    },
+    {
+      "path": "scripts/generate_demo.py",
+      "bytes": 1238,
+      "sha256": "65fef18865bd46997f243d0952c58a7a7aaf7e19170eb397ec3e565ef95f4dde"
+    },
+    {
+      "path": "scripts/run.R",
+      "bytes": 806,
+      "sha256": "40a4b6c6a9cb7ae3035e77652357e4c440669bf5fa1d633183b4b751d82d7f41"
+    },
+    {
+      "path": "scripts/setup.R",
+      "bytes": 1005,
+      "sha256": "a4f0873bd0b2c41ee67d2bda2900c85aae337da6354d32371e566b4162062c90"
+    },
+    {
+      "path": "tests/test_demo.R",
+      "bytes": 1060,
+      "sha256": "3051022137fdd9a748cd2a01368a976e6782b437b050c54077a336f8a8d0f190"
+    },
+    {
+      "path": "tests/test_server.R",
+      "bytes": 998,
+      "sha256": "b6156b076967efba34604ef8bc3e990aa7bfbc1622092bf7df26658dd63180db"
+    },
+    {
+      "path": "tests/test_simulation.R",
+      "bytes": 1499,
+      "sha256": "123ded6a536fc015c802a9dfc2561105293e75a1209e91e84c6774465001044a"
+    },
+    {
+      "path": "www/explorer.css",
+      "bytes": 7049,
+      "sha256": "a082a7a9200c0f3ee5a2af8137078c0356c507f2b309946fe09af1ea61459244"
+    }
+  ]
+}

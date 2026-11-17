@@ -1,0 +1,9 @@
+.git
+.foraging-library/
+renv/library/
+renv/staging/
+.Rhistory
+.RData
+*.log
+__pycache__/
+PUBLIC-MANIFEST.json

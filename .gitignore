@@ -1,0 +1,8 @@
+.git
+.foraging-library/
+renv/library/
+renv/staging/
+.Rhistory
+.RData
+*.log
+__pycache__/
